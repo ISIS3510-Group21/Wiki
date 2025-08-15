@@ -3,19 +3,18 @@
 Welcome to this repository!  
 Here you will find the codebase organized into **Sprints** and **Micro-Sprints** as follows:
 
-Sprint 1
-├── MS1
-├── MS2
-├── MS3
+Sprint 1 <br>
+├── MS1 <br>
+├── MS2 <br>
+├── MS3 <br>
 ├── MS4
-
 ...
 
-Sprint 4
-├── MS1 
-├── MS2
-├── MS3
-├── MS4
+Sprint 4 <br>
+├── MS1 <br>
+├── MS2 <br>
+├── MS3 <br>
+├── MS4 <br>
 
 
 ## Additional Materials
